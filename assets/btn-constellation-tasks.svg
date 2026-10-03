@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="44" viewBox="0 0 234 44" role="img" aria-label="constellation-tasks">
+<title>constellation-tasks</title>
+<defs>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".09"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="pill"><rect x="1" y="1" width="232" height="42" rx="21.0"/></clipPath>
+  <clipPath id="icon"><rect width="32" height="32" rx="7"/></clipPath>
+</defs>
+<rect x="1" y="1" width="232" height="42" rx="21.0" fill="#161b22" stroke="#30363d"/>
+<rect x="1" y="1" width="232" height="42" rx="21.0" fill="none" stroke="#C9A27E" stroke-opacity="0">
+  <animate attributeName="stroke-opacity" values="0;0;.7;0;0" keyTimes="0;.30;.40;.55;1" dur="5s" begin="2.25s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#pill)">
+  <rect x="-60" y="0" width="60" height="44" fill="url(#shine)">
+    <animate attributeName="x" values="-60;-60;234;234" keyTimes="0;.28;.55;1" dur="5s" begin="2.25s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<g transform="translate(13 9) scale(0.8125)"><g clip-path="url(#icon)"><path d="M6 24 13 15 20.5 19.5 24.5 10" fill="none" stroke="#c9a27e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="6" cy="24" r="2.3" fill="#e6edf3"/><circle cx="13" cy="15" r="2.3" fill="#e6edf3"/><circle cx="20.5" cy="19.5" r="2.3" fill="#e6edf3"/><path d="M24.5 3.5Q25.2 8.3 30 9Q25.2 9.7 24.5 14.5Q23.8 9.7 19 9Q23.8 8.3 24.5 3.5Z" fill="#e6edf3"/></g></g>
+<text x="46" y="27.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#c9d1d9">constellation-tasks</text>
+</svg>

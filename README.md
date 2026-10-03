@@ -1,43 +1,41 @@
-# ¡Hola! Soy Diego Cedeño 👋
-
-### Full Stack Developer & Digital Producer
-Desarrollo aplicaciones web modernas, sistemas de gestión y herramientas de automatización.
-
----
-
-### 🚀 Stack & Tecnologías
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Hosting & Tools -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegocedenno&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocedenno&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./assets/pluto-voyage.svg" width="100%" alt="A small spaceship traveling from Earth to Pluto">
 </p>
 
----
+### Diego
 
-### 🌐 Conecta conmigo
+**Systems builder** · Caracas, VE
 
-<p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+I take processes from one domain and rebuild them as replicable systems: automation, internal tools and self-hosted infrastructure.
+
+Tomo procesos de un área y los reconstruyo como sistemas replicables: automatización, herramientas internas e infraestructura self-hosted.
+
+<br>
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="20" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/8b949e" height="20" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/8b949e" height="20" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/8b949e" height="20" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/8b949e" height="20" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/8b949e" height="20" alt="n8n" title="n8n">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/coolify/8b949e" height="20" alt="Coolify" title="Coolify">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleappsscript/8b949e" height="20" alt="Google Apps Script" title="Google Apps Script">
 </p>
+
+<br>
+
+<p>
+  <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com?user=diegocedenno&mode=weekly&timezone=America/Caracas&hide_border=true&background=transparent&stroke=30363d&ring=c9a27e&fire=c9a27e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681">
+  <img height="160" alt="Most used languages" src="./profile/top-langs.svg">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegocedenno/diegocedenno/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegocedenno/diegocedenno/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/diegocedenno/diegocedenno/output/github-snake.svg">
+</picture>
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/TU_USUARIO) · [YouTube](https://www.youtube.com/@TU_CANAL) · [Email](mailto:TU_EMAIL)

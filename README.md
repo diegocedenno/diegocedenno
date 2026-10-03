@@ -32,20 +32,20 @@ Ten space-themed micro web apps, each in its own repo with a live demo: vanilla 
 Diez microapps web de temática espacial, cada una en su propio repo y con demo en vivo: HTML, CSS y JavaScript vanilla, SVG animado, sin build.
 
 <p>
-  <a href="https://github.com/diegocedenno/orbit-calc"><img src="./assets/btn-orbit-calc.svg" height="44" alt="orbit-calc" title="orbit-calc — calculator that launches every result into orbit"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/orbital-clock"><img src="./assets/btn-orbital-clock.svg" height="44" alt="orbital-clock" title="orbital-clock — world clock on a 24-hour globe"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/gravity-check"><img src="./assets/btn-gravity-check.svg" height="44" alt="gravity-check" title="gravity-check — your jump on ten worlds"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/light-delay"><img src="./assets/btn-light-delay.svg" height="44" alt="light-delay" title="light-delay — how long light takes across the solar system"></a>
+  <a href="https://diegocedenno.github.io/orbit-calc/"><img src="./assets/btn-orbit-calc.svg" height="44" alt="orbit-calc" title="orbit-calc — calculator that launches every result into orbit"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/orbital-clock/"><img src="./assets/btn-orbital-clock.svg" height="44" alt="orbital-clock" title="orbital-clock — world clock on a 24-hour globe"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/gravity-check/"><img src="./assets/btn-gravity-check.svg" height="44" alt="gravity-check" title="gravity-check — your jump on ten worlds"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/light-delay/"><img src="./assets/btn-light-delay.svg" height="44" alt="light-delay" title="light-delay — how long light takes across the solar system"></a>
 </p>
 <p>
-  <a href="https://github.com/diegocedenno/launch-pomodoro"><img src="./assets/btn-launch-pomodoro.svg" height="44" alt="launch-pomodoro" title="launch-pomodoro — Pomodoro timer as a rocket launch"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/constellation-tasks"><img src="./assets/btn-constellation-tasks.svg" height="44" alt="constellation-tasks" title="constellation-tasks — to-do list where tasks are stars"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/escape-velocity"><img src="./assets/btn-escape-velocity.svg" height="44" alt="escape-velocity" title="escape-velocity — password strength as a rocket launch"></a>
+  <a href="https://diegocedenno.github.io/launch-pomodoro/"><img src="./assets/btn-launch-pomodoro.svg" height="44" alt="launch-pomodoro" title="launch-pomodoro — Pomodoro timer as a rocket launch"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/constellation-tasks/"><img src="./assets/btn-constellation-tasks.svg" height="44" alt="constellation-tasks" title="constellation-tasks — to-do list where tasks are stars"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/escape-velocity/"><img src="./assets/btn-escape-velocity.svg" height="44" alt="escape-velocity" title="escape-velocity — password strength as a rocket launch"></a>
 </p>
 <p>
-  <a href="https://github.com/diegocedenno/asteroid-typer"><img src="./assets/btn-asteroid-typer.svg" height="44" alt="asteroid-typer" title="asteroid-typer — typing game with falling asteroids"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/moon-phase"><img src="./assets/btn-moon-phase.svg" height="44" alt="moon-phase" title="moon-phase — Moon phase for any date"></a>&nbsp;
-  <a href="https://github.com/diegocedenno/nebula-palette"><img src="./assets/btn-nebula-palette.svg" height="44" alt="nebula-palette" title="nebula-palette — color palettes painted as nebulae"></a>
+  <a href="https://diegocedenno.github.io/asteroid-typer/"><img src="./assets/btn-asteroid-typer.svg" height="44" alt="asteroid-typer" title="asteroid-typer — typing game with falling asteroids"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/moon-phase/"><img src="./assets/btn-moon-phase.svg" height="44" alt="moon-phase" title="moon-phase — Moon phase for any date"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/nebula-palette/"><img src="./assets/btn-nebula-palette.svg" height="44" alt="nebula-palette" title="nebula-palette — color palettes painted as nebulae"></a>
 </p>
 
 <br>

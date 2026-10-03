@@ -2,7 +2,7 @@
   <img src="./assets/pluto-voyage.svg" width="100%" alt="A small spaceship traveling from Earth to Pluto">
 </p>
 
-### Diego
+### Diego Cedeño
 
 **Systems builder** · Caracas, VE
 
@@ -38,4 +38,4 @@ Tomo procesos de un área y los reconstruyo como sistemas replicables: automatiz
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/TU_USUARIO) · [YouTube](https://www.youtube.com/@TU_CANAL) · [Email](mailto:TU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/diegocedenno) · [YouTube](https://www.youtube.com/@diegocdx) · [Email](mailto:TU_EMAIL)

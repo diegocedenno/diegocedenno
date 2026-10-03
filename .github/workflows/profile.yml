@@ -1,0 +1,55 @@
+name: profile
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # todos los días, 1:00 a. m. en Caracas
+  workflow_dispatch: # botón "Run workflow" en la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  # Tarjeta de lenguajes. Con el secret STATS_TOKEN incluye tus repos privados
+  # (solo porcentajes por lenguaje, nunca nombres de repos). Sin él, solo públicos.
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Lenguajes más usados
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=320&hide_border=true&hide_title=true&theme=transparent&text_color=8b949e
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Guardar tarjeta
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: actualizar tarjetas del perfil" || exit 0
+          git push
+
+  # Serpiente sobre el gráfico de contribuciones → rama "output"
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generar la serpiente
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=#a8825e
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#c9a27e
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

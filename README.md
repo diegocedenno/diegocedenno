@@ -40,6 +40,6 @@ Tomo procesos de un área y los reconstruyo como sistemas replicables: automatiz
 
 <p>
   <a href="https://www.linkedin.com/in/diegocedenno"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.youtube.com/@diegocdx"><img src="./assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
+  <a href="https://www.youtube.com/@diegocedenno"><img src="./assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
   <a href="mailto:diego.cedenno@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email"></a>
 </p>

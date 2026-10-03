@@ -13,14 +13,14 @@ Tomo procesos de un área y los reconstruyo como sistemas replicables: automatiz
 <br>
 
 <p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="20" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/8b949e" height="20" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/8b949e" height="20" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/8b949e" height="20" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/8b949e" height="20" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/8b949e" height="20" alt="n8n" title="n8n">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/coolify/8b949e" height="20" alt="Coolify" title="Coolify">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googleappsscript/8b949e" height="20" alt="Google Apps Script" title="Google Apps Script">
+  <img src="https://cdn.simpleicons.org/nodedotjs/8b949e" height="30" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/8b949e" height="30" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/8b949e" height="30" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/8b949e" height="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/8b949e" height="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/8b949e" height="30" alt="n8n" title="n8n">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/coolify/8b949e" height="30" alt="Coolify" title="Coolify">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleappsscript/8b949e" height="30" alt="Google Apps Script" title="Google Apps Script">
 </p>
 
 <br>

@@ -27,9 +27,9 @@ Tomo procesos de un área y los reconstruyo como sistemas replicables: automatiz
 
 #### Plutón series · Serie Plutón
 
-Ten space-themed micro web apps, each in its own repo with a live demo: vanilla HTML, CSS and JavaScript, animated SVG, no build step.
+Eighteen space-themed micro web apps, each in its own repo with a live demo: vanilla HTML, CSS and JavaScript, animated SVG, no build step.
 
-Diez microapps web de temática espacial, cada una en su propio repo y con demo en vivo: HTML, CSS y JavaScript vanilla, SVG animado, sin build.
+Dieciocho microapps web de temática espacial, cada una en su propio repo y con demo en vivo: HTML, CSS y JavaScript vanilla, SVG animado, sin build.
 
 <p>
   <a href="https://diegocedenno.github.io/orbit-calc/"><img src="./assets/btn-orbit-calc.svg" height="44" alt="orbit-calc" title="orbit-calc — calculator that launches every result into orbit"></a>&nbsp;
@@ -46,6 +46,18 @@ Diez microapps web de temática espacial, cada una en su propio repo y con demo 
   <a href="https://diegocedenno.github.io/asteroid-typer/"><img src="./assets/btn-asteroid-typer.svg" height="44" alt="asteroid-typer" title="asteroid-typer — typing game with falling asteroids"></a>&nbsp;
   <a href="https://diegocedenno.github.io/moon-phase/"><img src="./assets/btn-moon-phase.svg" height="44" alt="moon-phase" title="moon-phase — Moon phase for any date"></a>&nbsp;
   <a href="https://diegocedenno.github.io/nebula-palette/"><img src="./assets/btn-nebula-palette.svg" height="44" alt="nebula-palette" title="nebula-palette — color palettes painted as nebulae"></a>
+</p>
+<p>
+  <a href="https://diegocedenno.github.io/orbit-sandbox/"><img src="./assets/btn-orbit-sandbox.svg" height="44" alt="orbit-sandbox" title="orbit-sandbox — Fling satellites around Pluto and watch the real orbit"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/rocket-equation/"><img src="./assets/btn-rocket-equation.svg" height="44" alt="rocket-equation" title="rocket-equation — Stage a rocket and see how far its delta-v takes you"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/transit-finder/"><img src="./assets/btn-transit-finder.svg" height="44" alt="transit-finder" title="transit-finder — Exoplanet transits and their light curves, live"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/mars-window/"><img src="./assets/btn-mars-window.svg" height="44" alt="mars-window" title="mars-window — Find the next launch window to Mars"></a>
+</p>
+<p>
+  <a href="https://diegocedenno.github.io/solar-scale/"><img src="./assets/btn-solar-scale.svg" height="44" alt="solar-scale" title="solar-scale — The solar system to scale: if the Moon were one pixel"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/planet-age/"><img src="./assets/btn-planet-age.svg" height="44" alt="planet-age" title="planet-age — Your age and next birthday on every planet"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/mars-clock/"><img src="./assets/btn-mars-clock.svg" height="44" alt="mars-clock" title="mars-clock — What time is it on Mars right now?"></a>&nbsp;
+  <a href="https://diegocedenno.github.io/arecibo-pixel/"><img src="./assets/btn-arecibo-pixel.svg" height="44" alt="arecibo-pixel" title="arecibo-pixel — Draw, encode and transmit your own Arecibo message"></a>
 </p>
 
 <br>
@@ -64,6 +76,7 @@ Diez microapps web de temática espacial, cada una en su propio repo y con demo 
 <br>
 
 <p>
+  <a href="https://diegocedenno.github.io/"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/diegocedenno"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
   <a href="https://www.youtube.com/@diegocedenno"><img src="./assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
   <a href="mailto:diego.cedenno@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email"></a>
